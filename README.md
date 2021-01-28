@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twrps&show_icons=true&theme=dark)
+![lol](https://github-readme-stats.vercel.app/api?username=twrps&show_icons=true&theme=dark)
